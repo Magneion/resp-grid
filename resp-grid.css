@@ -3,12 +3,22 @@ section {
 
 }
 
-.staff
+.staff {
+	grid-row-start:1;
+}
 
-.strk
+.strk {
+	grid-row-start:5;
+}
 
-.mid
+.mid {
+	grid-row-start:4;
+}
 
-.def
+.def {
+	grid-row-start:3;
+}
 
-.goal 
+.goal {
+	grid-row-start:2;
+}
